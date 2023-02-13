@@ -94,7 +94,7 @@
       <dependency>
         <groupId>commons-fileupload</groupId>
         <artifactId>commons-fileupload</artifactId>
-        <version>1.3</version>
+        <version>1.5</version>
       </dependency>
       <!-- JWT -->
       <dependency>
@@ -188,7 +188,7 @@
                   <overWrite>false</overWrite>
                   <outputDirectory>${project.build.directory}/${project.build.finalName}/bundle</outputDirectory>
                   <includes>**/*.properties</includes>
-                  <excludes></excludes>
+                  <excludes/>
                 </artifactItem>
               </artifactItems>
             </configuration>
