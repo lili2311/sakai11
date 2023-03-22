@@ -63,7 +63,11 @@
         </dependency>
     </dependencies>
 
+<<<<<<< HEAD
 </project><Your comment-->
 \<\!--Your comment-->
 \<\!--Your comment--\>
 \<\!--Your comment--\>
+=======
+</project>\<\!--Your comment--\>
+>>>>>>> 177d4e1943 (chore: moare whitespaces)

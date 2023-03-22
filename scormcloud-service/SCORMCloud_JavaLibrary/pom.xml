@@ -30,7 +30,10 @@
 		<sourceDirectory>${basedir}/src</sourceDirectory>
 	</build>
 </project>
+<<<<<<< HEAD
 <Your comment-->
 \<\!--Your comment-->
 \<\!--Your comment--\>
+=======
+>>>>>>> 177d4e1943 (chore: moare whitespaces)
 \<\!--Your comment--\>
