@@ -13,4 +13,11 @@
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
-</project>
+<<<<<<< HEAD
+</project><Your comment-->
+\<\!--Your comment-->
+\<\!--Your comment--\>
+\<\!--Your comment--\>
+=======
+</project>\<\!--Your comment--\>
+>>>>>>> 177d4e1943 (chore: moare whitespaces)

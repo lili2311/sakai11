@@ -4,7 +4,7 @@
     <parent>
         <artifactId>master</artifactId>
         <groupId>org.sakaiproject</groupId>
-        <version>12.5</version>
+        <version>12.6</version>
         <relativePath>master/pom.xml</relativePath>
     </parent>
 
@@ -267,3 +267,10 @@
         </profile>
     </profiles>
 </project>
+<<<<<<< HEAD
+<Your comment-->
+\<\!--Your comment-->
+\<\!--Your comment--\>
+=======
+>>>>>>> 177d4e1943 (chore: moare whitespaces)
+\<\!--Your comment--\>
