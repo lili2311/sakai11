@@ -72,7 +72,7 @@
     </developers>
 
     <properties>
-        <!-- Build tracking  -->
+        <!-- Build tracking comment  -->
         <maven.build.timestamp.format>yyMMdd_HHmm</maven.build.timestamp.format>
         <buildTimestamp>${maven.build.timestamp}</buildTimestamp>
         <buildSerial>2018042000</buildSerial>
