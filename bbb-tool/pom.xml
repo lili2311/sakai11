@@ -72,7 +72,7 @@
     </developers>
 
     <properties>
-        <!-- Build tracking  -->
+        <!-- Build tracking comment  -->
         <maven.build.timestamp.format>yyMMdd_HHmm</maven.build.timestamp.format>
         <buildTimestamp>${maven.build.timestamp}</buildTimestamp>
         <buildSerial>2018042000</buildSerial>
@@ -96,7 +96,7 @@
 
     <licenses>
         <license>
-            <name>Educational Community License, Version 2.0</name>
+            <name>Educational Community License, Version 2.1</name>
             <url>http://www.osedu.org/licenses/ECL-2.0</url>
             <distribution>repo</distribution>
         </license>
@@ -192,7 +192,7 @@
 
     <dependencyManagement>
         <dependencies>
-            <!-- BBB -->
+            <!-- BBB news -->
             <dependency>
                 <groupId>org.sakaiproject.bbb</groupId>
                 <artifactId>bbb-api</artifactId>
