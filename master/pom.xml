@@ -6,7 +6,7 @@
       <groupId>org.sakaiproject</groupId>
       <artifactId>oss-parent</artifactId>
       <version>1</version>
-      <relativePath></relativePath>
+      <relativePath/>
   </parent>
 
   <!-- Sakai Master defines all property versions and dependencyManagement used in Sakai -->
@@ -20,7 +20,7 @@
   <version>12.5</version>
 
   <properties>
-    <sakai.version>12.5</sakai.version>
+    <sakai.version>23.0</sakai.version>
     <!-- Standard dependency versions -->
     <sakai.apache.httpcomponents.httpclient.version>4.1.4</sakai.apache.httpcomponents.httpclient.version>
     <sakai.commons.lang.version>2.6</sakai.commons.lang.version>
@@ -36,7 +36,7 @@
     <sakai.elasticsearch.version>1.7.6</sakai.elasticsearch.version>
     <sakai.hibernate.groupId>org.hibernate</sakai.hibernate.groupId>
     <sakai.hibernate.artifactId>hibernate-core</sakai.hibernate.artifactId>
-    <sakai.hibernate.version>4.3.11.Final</sakai.hibernate.version>
+    <sakai.hibernate.version>5.1.0.Final</sakai.hibernate.version>
     <sakai.httpclient.version>4.5.5</sakai.httpclient.version>
     <sakai.httpcore.version>4.4.9</sakai.httpcore.version>
     <sakai.httpmime.version>4.5.5</sakai.httpmime.version>
@@ -52,7 +52,7 @@
     <sakai.mail.version>1.6.2</sakai.mail.version>
     <sakai.org.json.version>20171018</sakai.org.json.version>
     <sakai.pluto.version>1.1.7</sakai.pluto.version>
-    <sakai.quartz.version>2.2.3</sakai.quartz.version>
+    <sakai.quartz.version>2.3.0</sakai.quartz.version>
     <sakai.opencsv.version>2.3</sakai.opencsv.version>
     <sakai.servletapi.version>2.4</sakai.servletapi.version>
     <sakai.groovy.version>2.4.13</sakai.groovy.version>
@@ -71,7 +71,7 @@
     <sakai.xerces.impl.version>2.11.0</sakai.xerces.impl.version>
     <sakai.xerces.api.version>2.6.2</sakai.xerces.api.version>
     <sakai.log4j.version>1.2.17</sakai.log4j.version>
-    <sakai.slf4j.version>1.7.25</sakai.slf4j.version>
+    <sakai.slf4j.version>1.7.34</sakai.slf4j.version>
     <sakai.poi.version>3.17</sakai.poi.version>
     <sakai.mockito.version>2.7.22</sakai.mockito.version>
     <sakai.powermock.version>1.7.3</sakai.powermock.version>
@@ -97,7 +97,7 @@
     <sakai.build.directory>target</sakai.build.directory>
     <maven.test.redirectTestOutputToFile>true</maven.test.redirectTestOutputToFile>
     <!-- Default empty unless profile activation -->
-    <random-source></random-source>
+    <random-source/>
 
     <!-- These should only be updated when the webjars version is updated -->
     <ckeditor.autosave.version>278c922c6d8529edd15a2b2c11b574fb4320e0c2</ckeditor.autosave.version>
