@@ -6,7 +6,7 @@
       <groupId>org.sakaiproject</groupId>
       <artifactId>oss-parent</artifactId>
       <version>1</version>
-      <relativePath></relativePath>
+      <relativePath/>
   </parent>
 
   <!-- Sakai Master defines all property versions and dependencyManagement used in Sakai -->
@@ -20,7 +20,7 @@
   <version>12.5</version>
 
   <properties>
-    <sakai.version>12.5</sakai.version>
+    <sakai.version>12.7</sakai.version>
     <!-- Standard dependency versions -->
     <sakai.apache.httpcomponents.httpclient.version>4.1.4</sakai.apache.httpcomponents.httpclient.version>
     <sakai.commons.lang.version>2.6</sakai.commons.lang.version>
@@ -40,7 +40,7 @@
     <sakai.httpclient.version>4.5.5</sakai.httpclient.version>
     <sakai.httpcore.version>4.4.9</sakai.httpcore.version>
     <sakai.httpmime.version>4.5.5</sakai.httpmime.version>
-    <sakai.jackson.version>2.8.11</sakai.jackson.version>
+    <sakai.jackson.version>2.9.10</sakai.jackson.version>
     <sakai.jsoup.version>1.11.2</sakai.jsoup.version>
     <sakai.woodstox.version>5.0.3</sakai.woodstox.version>
     <sakai.stax2.version>3.1.4</sakai.stax2.version>
@@ -97,7 +97,7 @@
     <sakai.build.directory>target</sakai.build.directory>
     <maven.test.redirectTestOutputToFile>true</maven.test.redirectTestOutputToFile>
     <!-- Default empty unless profile activation -->
-    <random-source></random-source>
+    <random-source/>
 
     <!-- These should only be updated when the webjars version is updated -->
     <ckeditor.autosave.version>278c922c6d8529edd15a2b2c11b574fb4320e0c2</ckeditor.autosave.version>
