@@ -16,18 +16,18 @@
         <dependency>
             <groupId>org.apache.wicket</groupId>
             <artifactId>wicket</artifactId>
-            <version>6.26.0</version>
+            <version>7.18.0</version>
             <type>pom</type>
         </dependency>
         <dependency>
             <groupId>org.apache.wicket</groupId>
             <artifactId>wicket-spring</artifactId>
-            <version>6.26.0</version>
+            <version>7.18.0</version>
         </dependency>
         <dependency>
             <groupId>org.apache.wicket</groupId>
             <artifactId>wicket-extensions</artifactId>
-            <version>6.26.0</version>
+            <version>7.18.0</version>
         </dependency>
         <dependency>
             <groupId>javax.servlet</groupId>
@@ -62,7 +62,7 @@
             <groupId>org.sakaiproject.profile2</groupId>
             <artifactId>profile2-api</artifactId>
             <scope>provided</scope>
-            <version>12.5</version>
+            <version>22.0</version>
         </dependency>
         
     </dependencies>
