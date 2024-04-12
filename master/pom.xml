@@ -6,7 +6,7 @@
       <groupId>org.sakaiproject</groupId>
       <artifactId>oss-parent</artifactId>
       <version>1</version>
-      <relativePath></relativePath>
+      <relativePath/>
   </parent>
 
   <!-- Sakai Master defines all property versions and dependencyManagement used in Sakai -->
@@ -59,7 +59,7 @@
     <sakai.simple-xml.version>2.6.4</sakai.simple-xml.version>
     <sakai.spring.groupId>org.springframework</sakai.spring.groupId>
     <sakai.spring.artifactId>spring-core</sakai.spring.artifactId>
-    <sakai.spring.version>4.3.14.RELEASE</sakai.spring.version>
+    <sakai.spring.version>5.3.34</sakai.spring.version>
     <sakai.spring.security.version>3.2.10.RELEASE</sakai.spring.security.version>
     <sakai.spring.hateoas.version>0.24.0.RELEASE</sakai.spring.hateoas.version>
     <sakai.spring.plugin.version>1.2.0.RELEASE</sakai.spring.plugin.version>
@@ -97,7 +97,7 @@
     <sakai.build.directory>target</sakai.build.directory>
     <maven.test.redirectTestOutputToFile>true</maven.test.redirectTestOutputToFile>
     <!-- Default empty unless profile activation -->
-    <random-source></random-source>
+    <random-source/>
 
     <!-- These should only be updated when the webjars version is updated -->
     <ckeditor.autosave.version>278c922c6d8529edd15a2b2c11b574fb4320e0c2</ckeditor.autosave.version>
