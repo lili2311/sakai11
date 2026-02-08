@@ -21,7 +21,7 @@
   </scm>
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-    <sakai.wicket.version>1.4.15</sakai.wicket.version>
+    <sakai.wicket.version>1.4.23</sakai.wicket.version>
   </properties>
   <packaging>pom</packaging>
   <modules>
@@ -38,7 +38,7 @@
       <dependency>
         <groupId>org.slf4j</groupId>
         <artifactId>slf4j-log4j12</artifactId>
-        <version>1.4.3</version>
+        <version>1.7.34</version>
       </dependency>
       <dependency>
         <groupId>org.apache.wicket</groupId>
